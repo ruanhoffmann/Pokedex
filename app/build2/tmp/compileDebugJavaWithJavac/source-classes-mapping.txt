@@ -1,0 +1,18 @@
+com/example/novapokedex/FeedAdapter.java
+ com.example.novapokedex.FeedAdapter
+ com.example.novapokedex.FeedAdapter$ViewHolder
+com/example/novapokedex/FeedDetails.java
+ com.example.novapokedex.FeedDetails
+com/example/novapokedex/FeedEntry.java
+ com.example.novapokedex.FeedEntry
+com/example/novapokedex/FeedImageAdapter.java
+ com.example.novapokedex.FeedImageAdapter
+ com.example.novapokedex.FeedImageAdapter$DownloadImageTask
+ com.example.novapokedex.FeedImageAdapter$ViewHolder
+com/example/novapokedex/MainActivity.java
+ com.example.novapokedex.MainActivity
+ com.example.novapokedex.MainActivity$1
+ com.example.novapokedex.MainActivity$DownloadData
+ com.example.novapokedex.MainActivity$DownloadData$1
+com/example/novapokedex/ParseApplications.java
+ com.example.novapokedex.ParseApplications
