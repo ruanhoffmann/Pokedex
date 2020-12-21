@@ -41,6 +41,7 @@ public class ParseJson {
                     p.addTipo(tipos.getString(j));
                 }
                 this.pokemons.add(p);
+                //
             }
             return true;
         }catch (JSONException e ){
