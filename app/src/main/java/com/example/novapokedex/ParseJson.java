@@ -39,6 +39,7 @@ public class ParseJson {
 
                 for (int j = 0; j < tipos.length(); j++){
                     p.addTipo(tipos.getString(j));
+                    //
                 }
                 this.pokemons.add(p);
                 //
