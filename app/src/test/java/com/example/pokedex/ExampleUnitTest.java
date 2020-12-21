@@ -1,4 +1,4 @@
-package com.example.pokedex;
+package com.example.novapokedex;
 
 import org.junit.Test;
 
